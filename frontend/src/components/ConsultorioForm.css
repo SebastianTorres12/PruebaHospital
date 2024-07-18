@@ -1,0 +1,45 @@
+/* ConsultorioForm.css */
+
+.consultorio-form {
+    background-color: #594c4c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .consultorio-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .consultorio-form form div {
+    margin-bottom: 15px;
+  }
+  
+  .consultorio-form form label {
+    display: block;
+    color: #fff;
+    margin-bottom: 5px;
+  }
+  
+  .consultorio-form form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .consultorio-form form button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .consultorio-form form button:hover {
+    background-color: #0056b3;
+  }
+  
